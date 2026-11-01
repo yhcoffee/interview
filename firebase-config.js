@@ -6,7 +6,7 @@
 window.YIHUI_INTERVIEW_FIREBASE_CONFIG = {
   apiKey: "AIzaSyCk0k6eRLbIOzfYMZU9eh0A5--ov-GZ3vY",
   authDomain: "interview-6ff1f.firebaseapp.com",
-  databaseURL: "PASTE_EXACT_REALTIME_DATABASE_URL",
+  databaseURL: "https://interview-6ff1f-default-rtdb.firebaseio.com",
   projectId: "interview-6ff1f",
   storageBucket: "interview-6ff1f.firebasestorage.app",
   messagingSenderId: "543204541778",
